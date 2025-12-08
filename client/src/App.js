@@ -31,7 +31,7 @@ function App() {
     <div className='container'>
       <div className='wrapper'>
         <h1>EasyShare</h1>
-        <p>Upload and share the download link.</p>
+        <p>Upload and share the download link for reference.</p>
         
         <button onClick={() => onUploadClick()}>Upload</button>
         <input
